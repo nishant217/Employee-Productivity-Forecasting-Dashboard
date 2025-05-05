@@ -26,7 +26,7 @@ git clone [repository-url]
 
 2. Install required dependencies
 ```bash
-pip install jupyter pandas numpy matplotlib
+pip install jupyter pandas numpy matplotlib statsmodel seaborn sklearn
 ```
 
 3. Launch Jupyter Notebook
